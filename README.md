@@ -69,5 +69,5 @@ By using a CSV file that contains sales order data:
 👤 Author
 Sefa Öztürk
 IT Trainee | Azure Data Engineer in progress
-📇 LinkedIn: linkedin.com/in/sefa-ozturk1972
+📇 LinkedIn: (https://www.linkedin.com/in/sefa-ozturk1972)
 
